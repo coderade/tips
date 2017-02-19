@@ -1,5 +1,5 @@
 # tips
 Some tips
 
-[Linux](LINUX.md)
+[Linux](LINUX.md)<br>
 [PostgreSQL](POSTGRESQL.md)
