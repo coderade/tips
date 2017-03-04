@@ -44,3 +44,7 @@
 + `\dt`-> list all tables in the current database
 + `\connect <database_name>`-> switch the database
 + `psql -h <host> -U <user-name> -d <db-name> -a -f <file>` -> Run a sql file using command line
+
+## POSTGIS
+
++ `SELECT PostGIS_full_version();`	-> list all databases
